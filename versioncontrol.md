@@ -7,3 +7,5 @@ purposie
 design pupose
 
 tracking information
+
+Decide design
