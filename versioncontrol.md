@@ -1,21 +1,21 @@
-verion 0.1.1
+V0.0.1
 
-design for hardware 
+Design for hardware 
 
-purposie
+Purposie
 
-design pupose
+Design pupose
 
-tracking information
+Tracking information
 
 Decide design
 
-reason
+Reason
 
-conclusion
+Conclusion
 
-reference
+Reference
 
 Appendix
 
-signoff
+Signoff
